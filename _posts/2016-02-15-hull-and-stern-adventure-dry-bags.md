@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-15T07:48:33.921Z'
-dateModified: '2016-02-15T06:56:29.245Z'
+datePublished: '2016-02-15T08:05:10.183Z'
+dateModified: '2016-02-15T08:05:06.548Z'
 title: 'HULL & STERN Adventure Dry Bags'
 author: []
 sourcePath: _posts/2016-02-15-hull-and-stern-adventure-dry-bags.md
