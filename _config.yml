@@ -1,0 +1,28 @@
+name: hullstern
+favicon: null
+layout_spectrum: 0.2889914836268872
+typography_spectrum: 0.6506202830933034
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.8508287316653877
+  lightness: 0.12060281098820269
+  saturation: 0.782139404444024
+  rhythmicContrast: 0.986662206472829
+purpose: []
