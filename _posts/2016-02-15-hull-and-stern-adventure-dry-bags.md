@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-15T06:47:15.302Z'
-dateModified: '2016-02-15T06:47:05.374Z'
+datePublished: '2016-02-15T07:48:33.921Z'
+dateModified: '2016-02-15T06:56:29.245Z'
 title: 'HULL & STERN Adventure Dry Bags'
 author: []
+sourcePath: _posts/2016-02-15-hull-and-stern-adventure-dry-bags.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-15-hull-and-stern-adventure-dry-bags.md
-published: true
 url: hull-and-stern-adventure-dry-bags/index.html
 _type: Article
 
