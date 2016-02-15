@@ -1,4 +1,4 @@
-name: hullstern
+name: 'HULL & STERN Adventure Dry Bags'
 favicon: null
 layout_spectrum: 0.48905
 typography_spectrum: 0.74568
@@ -24,6 +24,6 @@ color:
     - '#028d70'
   brandStrength: 0.8508287316653877
   lightness: 0.5
-  saturation: 0.782139404444024
+  saturation: 0.1875
   rhythmicContrast: 0.986662206472829
 purpose: []
