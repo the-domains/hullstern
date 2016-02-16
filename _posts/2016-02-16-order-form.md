@@ -1,18 +1,24 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'urn:uuid:1e18efdb-59c5-45a2-b3ae-1213b4a9b381'
+inLanguage: null
+starred: false
+keywords: []
 description: ''
+datePublished: '2016-02-16T03:15:55.724Z'
+dateModified: '2016-02-16T03:15:52.363Z'
 author: []
-datePublished: '2016-02-16T03:15:31.449Z'
-publisher:
-  domain: ''
-  name: ''
 title: Order Form
-dateModified: '2016-02-16T03:14:57.349Z'
 sourcePath: _posts/2016-02-16-order-form.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: order-form/index.html
+authors: []
+publisher:
+  name: ''
+  domain: ''
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
